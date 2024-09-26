@@ -33,11 +33,11 @@
 
 .profile__name {
   margin: 0 auto;
-  margin-right: 10px;
   font-family: "Inter", "Arial", sans-serif;
   font-size: 22px;
   font-weight: 500;
   line-height: 1;
+  text-align: center;
 }
 
 .profile__description {
@@ -55,6 +55,7 @@
   background-color: black;
   border: solid 1px white;
   display: flex;
+  margin-left:10px;
 }
 
 .profile__edit-svg {
