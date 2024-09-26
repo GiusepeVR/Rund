@@ -8,8 +8,8 @@
 .nav__logo {
   margin: 0 27px;
   padding-top: 34px;
-  max-width: 126px;
-  max-height: 24px;
+  max-width: 160px;
+  padding-bottom: 20px;
 }
 
 @media screen and (min-width: 768px) {
